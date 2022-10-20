@@ -1,9 +1,8 @@
-## Hello there I am Anwar
-my journey with coding start long time ago in high school (1993) where I wrote my first lines of code with Basic language
-well,even with another career (as teacher of french language) the passion for coding still exist.....
+## Hello there I am Anwar from Egypt
+I love programming and Online games.
 
 ## Skills
-thanks for free learning sources I did it and gain good skills with Vanilla javascript , React js , Next js , HTML , CSS
+Thanks for free learning resources I  gained good skills with Vanilla javascript , React js , Next js , HTML , CSS
 mongodb , Express js ...
 
 ## Now
